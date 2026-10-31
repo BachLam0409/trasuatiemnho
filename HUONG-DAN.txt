@@ -1,0 +1,10 @@
+TRÀ SỮA TẸT PHƯỢNG v25 - ĐƯA LÊN GITHUB (KHÔNG CÓ THƯ MỤC)
+
+Tất cả file nằm phẳng, không có thư mục nào. Trên GitHub: Add file -> Upload files,
+bấm "choose your files", chọn TẤT CẢ file rồi Commit (tải đè file cũ).
+
+File QUAN TRỌNG NHẤT: index.html (chỉ cần file này game vẫn chạy và cài được).
+Các file còn lại (manifest.webmanifest, sw.js, các ảnh .png) để chạy offline và biểu tượng đẹp hơn.
+
+Mở link bằng CHROME (Android) / SAFARI (iPhone), không mở bằng Messenger/Zalo.
+Cài: Chrome bấm nút "Cài đặt" trên thanh hồng; Safari bấm Chia sẻ -> "Thêm vào MH chính".
